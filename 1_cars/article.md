@@ -2,7 +2,7 @@
 > More and more people buy and use their own cars. Do you think the advantages of this trend outweigh the disadvantages for the environment? 
 
 
-There has been a significant increase in the popularity of private cars these years, which brings about a debate on the ambivalence applied to them. I'm going to explain why I think the advantages of this trend for individuals cannot outweigh the disadvantages for the environment.
+The last two decades have witnessed a significant increase in the number of private cars, which raises a debate on whether this trend brings more benefits for individuals than the damages to the environment. From my perspective, despite the convenience private cars may bring to us, we can never overlook potential environmental perturbations stemming from increased rolling cars.
  
 Possessing a car is no doubt advantageous to individuals, and it particularly applies to those who reside in the countryside. Even for people in metropolises, where there are intricate public transit systems, the needs for commuting in case of emergency cannot be guaranteed occasionally. In addition, it is good news for car lovers: cars are not abstract and unavailable on fancy automobile magazines, but rather are tangible four-wheeled friends which they can operate, modify and communicate with. This can dramatically enhance the level of happiness of these fanatical people.
  
