@@ -1,2 +1,10 @@
-WritingTask4
+Writing Task 4
 > Some people say that the main environmental problem of our time is the loss of particular species of plants and animals. Other say that there are more important environmental problems. Discuss both views and give your own opinion.
+
+People concur on the fact that we are facing serious environmental problems, but differ on which is the premier one. Some argue it is extinction of certain species of plants or animals that is the dominant problem, while others believe that there is something more important.
+
+The first bloc's stance does make sense, since our ecosystem is an intricate while fragile network, in which the absence of particular species located in a crucial path could bring dire repercussions. The top layer predators are quintessential examples of such species. Imagine a grassland with perfect equilibrium of numbers of wolves, sheep and grass, where every group of species is thriving. However, one day the volume of wolves plummets imputed to local people's overhunting. Consequently, reproduction of sheep cannot be effectively clamped on and grassland will be degrading and cause severe famine and massive death of sheep conversely. As a result, the pyramid of the food chain therefore collapses, which is fatal for sure. Same applies to the elimination of some species of plants too.
+
+Ostensibly plausible as it might sound, others still insist on the existence of further critical issues on the environment, and I am one of them. For instance, global warming is a far more deleterious problem than the disappearance of specific species of plants or animals. By melting polar icebergs, global warming may cause a considerable rise of sea level, which will threaten the living of people in island countries directly. Additionally, it can also endanger multiple species of plants and animals which are fairly sensitive to environmental temperature. Due to the fact that it is an upstream cause, it is not sensible to conduct plants or animals conservation projects without solving the problem of global warming in the first place. 
+
+To conclude, I strongly agree with the judgment that there are much more important environmental problems such as global warming than the loss of particular species of animals or plants.
